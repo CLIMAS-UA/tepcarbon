@@ -11,7 +11,7 @@ analysis. The input data lives in the [data](data) directory and the output
 ``png`` and ``csv`` files live in the [output](output) directory. The plot
 below shows an example.
 
-![output/portfolios_1.5_2.0_2.5_C.png](output/portfolios_1.5_2.0_2.5_C.png)
+![output/portfolios_1.5_2.0_2.5_C_emissions_based.png](output/portfolios_1.5_2.0_2.5_C_emissions_based.png)
 
 Click the [launch binder](https://mybinder.org/v2/gh/CLIMAS-UA/tepcarbon/master)
 badge at the top of this Readme file to open the notebook in an
