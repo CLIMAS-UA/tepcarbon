@@ -14,10 +14,13 @@ below shows an example.
 ![output/portfolios_1.5_2.0_2.5_C_emissions_based.png](output/portfolios_1.5_2.0_2.5_C_emissions_based.png)
 
 Click the [launch binder](https://mybinder.org/v2/gh/CLIMAS-UA/tepcarbon/master)
-badge at the top of this Readme file to open the notebook in an
+badge at the top of this Readme file to open the notebook in a safe
 executable environment on [mybinder.org](https://mybinder.org/). No need
 to install or run code on your computer!
 
 If you do want to run the jupyter notebook on your own computer, we
 recommend installing the
 [Anaconda Python Distribution](https://www.anaconda.com/products/individual).
+
+Click the green "Clone or download" button to download this repository to your
+computer (the button is to the upper right of the file listing).
