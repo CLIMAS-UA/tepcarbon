@@ -1,7 +1,7 @@
-"U.S. electricity generation by major energy source, 1950-2018",,,,,
+"U.S. electricity generation by major energy source, 1950-2019",,,,,
 billion kilowatthours,,,,,
 Note: Electricity generation from utility-scale facilities.,,,,,
-"Source: U.S. Energy Information Administration, <em>Monthly Energy Review</em>, Table 7.2a, March 2019",,,,,
+"Source: U.S. Energy Information Administration, <em>Monthly Energy Review</em>, Table 7.2a, March 2020 and <em>Electric Power Monthly</em>, February 2020, preliminary data for 2019",,,,,
 ,,,,,
 ,coal,natural gas,nuclear,renewables,petroleum and other
 1950,155,45,0,101,34
@@ -73,3 +73,4 @@ Note: Electricity generation from utility-scale facilities.,,,,,
 2016,1239,1378,806,609,44
 2017,1206,1296,805,687,40
 2018,1146,1468,807,713,44
+2019,966,1582,809,720,40
